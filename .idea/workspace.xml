@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="43bb478b-6298-476c-a65b-cfd6689d1487" name="Default" comment="" />
+=======
+    <list default="true" id="43bb478b-6298-476c-a65b-cfd6689d1487" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> de836b0a9f69048c1c2f700dd53ca4e8bf779080
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,7 +19,78 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="100" column="43" selection-start-line="100" selection-start-column="43" selection-end-line="100" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-241">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="postcss.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/postcss.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="78" selection-start-line="7" selection-start-column="78" selection-end-line="7" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> de836b0a9f69048c1c2f700dd53ca4e8bf779080
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,7 +128,13 @@
     <bower.json value="" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+<<<<<<< HEAD
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+=======
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+>>>>>>> de836b0a9f69048c1c2f700dd53ca4e8bf779080
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -62,6 +145,12 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+>>>>>>> de836b0a9f69048c1c2f700dd53ca4e8bf779080
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
@@ -137,12 +226,20 @@
       <workItem from="1552469569149" duration="598000" />
       <workItem from="1552520832541" duration="599000" />
       <workItem from="1552572787887" duration="541000" />
+<<<<<<< HEAD
       <workItem from="1553388014655" duration="20448000" />
+=======
+      <workItem from="1553388014655" duration="20206000" />
+>>>>>>> de836b0a9f69048c1c2f700dd53ca4e8bf779080
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="29128000" />
+=======
+    <option name="totallyTimeSpent" value="28886000" />
+>>>>>>> de836b0a9f69048c1c2f700dd53ca4e8bf779080
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="876" extended-state="6" />
@@ -359,6 +456,16 @@
     <entry file="file://$PROJECT_DIR$/dist/assets/css/main.f0f565d1215f9030debf.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/postcss.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="78" selection-start-line="7" selection-start-column="78" selection-end-line="7" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> de836b0a9f69048c1c2f700dd53ca4e8bf779080
     <entry file="file://$PROJECT_DIR$/dist/assets/css/main.90c55.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -368,6 +475,19 @@
     <entry file="file://$PROJECT_DIR$/src/App.scss.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> de836b0a9f69048c1c2f700dd53ca4e8bf779080
     <entry file="file://$PROJECT_DIR$/dist/assets/css/main.be6e4.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -378,6 +498,16 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/src/App.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> de836b0a9f69048c1c2f700dd53ca4e8bf779080
     <entry file="file://$PROJECT_DIR$/dist/assets/css/main.df55f.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -397,6 +527,16 @@
     <entry file="file://$PROJECT_DIR$/dist/assets/css/main.49df9.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-241">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> de836b0a9f69048c1c2f700dd53ca4e8bf779080
     <entry file="file://$PROJECT_DIR$/dist/assets/css/main.d4f61.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -413,6 +553,16 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> de836b0a9f69048c1c2f700dd53ca4e8bf779080
     <entry file="file://$PROJECT_DIR$/dist/css/main.6ca9f.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -433,6 +583,7 @@
     <entry file="file://$PROJECT_DIR$/dist/css/main.d4886.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/App.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -447,6 +598,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> de836b0a9f69048c1c2f700dd53ca4e8bf779080
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -454,6 +607,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -478,6 +632,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> de836b0a9f69048c1c2f700dd53ca4e8bf779080
   </component>
   <component name="masterDetails">
     <states>
