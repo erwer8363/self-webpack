@@ -12,6 +12,17 @@ console.log('这个时候的devMode是。。。', bundlePath, process.env.NODE_E
 
 module.exports = {
     entry: './src/index.js',
+    resolve: {
+        extensions: ['*', '.js', '.jsx'],
+        alias: {
+            '@': path.resolve(__dirname, 'src/page')
+        }
+    },
+    output: {
+        publicPath: './',
+        path: path.resolve(__dirname, 'dist'),
+        filename: "js/[name].bundle.js"
+    },
     module: {
         rules: [
             {
@@ -57,7 +68,13 @@ module.exports = {
                     }
                 ],
                 exclude: /node_modules/
-            }
+            },
+            {
+                test: /\.(woff|woff2|eot|ttf|otf)$/,
+                use: [
+                    'file-loader'
+                ]
+            },
         ]
     },
     optimization: {
@@ -86,14 +103,6 @@ module.exports = {
                 }
             })
         ]
-    },
-    resolve: {
-        extensions: ['*', '.js', '.jsx']
-    },
-    output: {
-        publicPath: './',
-        path: path.resolve(__dirname, 'dist'),
-        filename: "js/[name].bundle.js"
     },
     devServer: {
         contentBase: path.join(__dirname, 'public'),
